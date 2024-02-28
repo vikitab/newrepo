@@ -1,12 +1,16 @@
 {
-  "name": "your-package-name",
+  "name": "@vikitab/npmpackage",
   "version": "1.0.0",
-  "description": "Your package description",
+  "description": "",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
+    "start": "node index.js"
   },
   "keywords": [],
-  "author": "Your Name",
+  "author": "",
+  "repository": {
+    "url": "git://github.com/vikitab/newrepo.git"
+  },
   "license": "ISC"
 }
