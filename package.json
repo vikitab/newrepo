@@ -1,12 +1,12 @@
 {
-  "name": "newpro",
+  "name": "your-package-name",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Your package description",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
   },
   "keywords": [],
-  "author": "",
+  "author": "Your Name",
   "license": "ISC"
 }
